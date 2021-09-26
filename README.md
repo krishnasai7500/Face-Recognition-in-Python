@@ -12,4 +12,4 @@ For more than 2 faces to be recognized change the id number from 2 to any other 
 
 Thanks!!
 
-![alt text](https://github.com/chandrikadeb7/Face-Recognition-in-Python/blob/master/Screen%20Shot%202019-12-12%20at%208.01.02%20PM.jpg)
+
